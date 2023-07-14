@@ -1,6 +1,6 @@
 # Gastrointestinal-Disease-Classification-through-Explainable-and-Cost-Sensitive-DNN-with-SCL
 
-## Pretrained Models
+## Pre-trained Models
 The pre-trained models that have been used are mentioned below-
 * ResNet50
 * EfficientNet
